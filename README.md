@@ -31,4 +31,4 @@ Books which I read:
 * radare2 book: 40%
 * software architecture with c++: 30%
 
-I know assembly and can to reverse a program.
+I know assembly and can to reverse programs.
