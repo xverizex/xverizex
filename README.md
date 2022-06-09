@@ -26,7 +26,7 @@ Books which I read:
 * Operation Systems Design & Implementation: 30%
 * Linux Kernel Development: 60%
 * Архитектура компьютера: 70%
-* Design patterns in Modern c++20: 20%
+* Design patterns in Modern c++20 - Dmitrii Nesteruk: 64%
 * python official doc: 100%
 * radare2 book: 40%
 * software architecture with c++: 30%
